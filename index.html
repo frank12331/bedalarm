@@ -1,36 +1,40 @@
-<html>
-<head>
-<title>克蘇魯實驗室</title>
-<link rel="Shortcut Icon" href="https://goo.gl/ma6QEQ">
 <link rel="manifest" href="manifest.json"></link>
 <script src=pwa_service/pwabuilder-sw.js></script>
 <script src=pwa_service/pwabuilder-sw-register.js></script>
 <script src="manup.js"></script>
+
+
+<html>
+<head>
+<title>離床警報器</title>
+<!--link rel="Shortcut Icon" href="https://goo.gl/ma6QEQ"-->
+<link rel="stylesheet" type="text/css" href="CSS.css">
 </head>
-<body background="https://goo.gl/qrcyTE" style="background-color:EE7600;">
-<h2 style="text-align:center"><font face="Caslon" color ="white" size='12'>Hello 克蘇魯</font></h2>
+<!--body backgroundcolo="https://goo.gl/qrcyTE" style="background-color:EE7600;"-->
+<body bgcolor="#E6E6FA">
 
-<font face="Garamond" color="powderblue" size='5' align="center">
-<p>打到一半網路斷線</p>
-<p>在github打的東西都被洗掉</p>
-<p>已經不想再補上去了</p>
-<p>以後還是用txt或notepad打吧</p>
-</font>
-<p  align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pYt5VfC2uF0" frameborder="3" allowfullscreen></iframe>
-</p>  
-<h2>storage room</h2>
-<p><b>bold</b> <i>incline</i> <u>underline</u> <s>slash?</s>
-<font size='8'>font</font></p>
-<pre>
-如果想打比較多的文字
-好像可以直接這樣打
-會快很多的樣子
-字體測試
-</pre>
-
-<p><a href="https://goo.gl/Kez6pI" taget="_new">link for 克蘇魯</a>
-<p><img src="https://goo.gl/9D93e9" alt="oops...error" width="300" height="400" align="left">
-<a href="https://goo.gl/QmeRc3" target="_new"><img src="https://goo.gl/LmCeeW" alt="well just a link" width="400" height="232" align="center"></a><p>
+<h2 style="text-align:center" id=title><font face="Caslon" color ="black">離床警報器PWA</font></h2>
+    
+<p class="information_word following">A區 床位:1 患者:A先生</p>    
+<div class="display">
+    <pre class="label">  藍芽　 紅外線  護欄   離床</pre> 
+    <div>
+    <span class="dot BT"></span>
+    <span class="dot RWAY"></span>
+    <span class="dot DOWN"></span>
+    <span class="dot ALARM"></span>
+    </div>
+</div>
+    
+<p class="information_word following">A區 床位:2 患者:B小姐</p>
+<div class="display">
+    <pre class="label">  藍芽　 紅外線  護欄   離床</pre> 
+    <span class="dot BT"></span>
+    <span class="dot RWAY"></span>
+    <span class="dot DOWN"></span>
+    <span class="dot ALARM"></span>
+</div>
+    
+    
 </body>
 </html>
