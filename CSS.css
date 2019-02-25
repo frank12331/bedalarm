@@ -1,0 +1,50 @@
+/*for words fonts*/
+.information_word{
+    font-size: 6vw;
+    margin-left: 5vw;
+    font-weight:bold;
+}
+.label{
+    font-size: 5vw;
+    margin-top: -0.1vh;
+}
+#title{
+    font-size: 10vw;
+    margin-top: 5vh;
+    font-style: italic;
+}
+.display{
+  margin: auto;
+  width: 80vw;
+  height: 23vw;
+  border: 0.5vw solid green;
+  padding: 0px;
+}
+.dot {
+  height: 15vw;
+  width: 15vw;
+  background-color: #00ff00;
+  border-radius: 50%;
+  border: 0.2vw solid black;
+  display: inline-block;
+  margin-top: -4vw;
+}
+.BT{
+  margin-left: 3vw;
+  margin-right: auto;
+}
+.RWAY{
+  margin-left: 3vw;
+  margin-right: auto;
+}
+.DOWN{
+  margin-left: 4vw;
+  margin-right: auto;
+}
+.ALARM{
+  margin-left: 3vw;
+  margin-right: auto;
+}
+.following{
+    margin-top: 3vh;
+}
