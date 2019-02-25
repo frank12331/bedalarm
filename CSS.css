@@ -13,6 +13,13 @@
     margin-top: 5vh;
     font-style: italic;
 }
+/*end*/
+
+
+body {
+    display: block;
+    margin: 0px;
+}
 .display{
   margin: auto;
   width: 80vw;
