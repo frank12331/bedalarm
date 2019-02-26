@@ -11,5 +11,102 @@
     "orientation": "any",
     "background_color": "pick",
     "related_applications": [],
-    "prefer_related_applications": false
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/6c65bcee-eb6b-c166-bf54-84387117ea85.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7a868466-d003-fe4e-8b00-22cb0caab1ec.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c033d21b-c6dd-95f0-4a6e-b7cedbbe808d.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/746a149f-622a-964d-023b-bb4cfd032ac7.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6a623e0e-1056-ca22-fbd2-7b0805c7f3e5.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/41c651ce-5ab7-1f17-1b3d-2a6cd17cad91.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6264357f-1ead-e7b9-d53e-6b94b75d0b3d.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4268eb92-30e3-ea9c-480e-912cb6c2e353.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/333f3b53-8952-d87f-ed76-2a2db232c4e0.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d081dfa1-ecf5-86de-6bca-21341458762e.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/32fd4a5e-ec4c-9098-6267-bb12412fba79.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e070698f-616f-f0d3-e740-00b284d38a55.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2312d38b-d610-5dc7-b542-16062309a804.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6bee9864-577f-925e-c98b-f86eb48875cd.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/21a7f251-72fd-bdcf-6566-d4832ad1316f.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d0079475-6fad-38dd-149a-aee7f766e4c0.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e5f8a902-1863-d520-225d-a43010b3cb2f.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9ad8dbbd-aafc-2d5d-3c40-9568f82dd014.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
 }
