@@ -107,6 +107,11 @@
             "src": "/images/9ad8dbbd-aafc-2d5d-3c40-9568f82dd014.webPlatform.png",
             "sizes": "76x76",
             "type": "image/png"
+        },
+        {
+            "src": "/images/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ]
 }
